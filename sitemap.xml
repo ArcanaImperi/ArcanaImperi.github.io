@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://arcanaimperi.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://arcanaimperi.github.io/</loc>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/about/</loc>
+<lastmod>2025-03-01T19:02:43+10:00</lastmod>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/disinformation-and-misinformation/</loc>
+<lastmod>2025-03-01T19:06:34+10:00</lastmod>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/get-involved/</loc>
+<lastmod>2025-03-01T19:14:34+10:00</lastmod>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/human-rights-101/</loc>
+<lastmod>2025-03-01T19:05:01+10:00</lastmod>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/legal-and-policy-advocacy/</loc>
+<lastmod>2025-03-01T19:12:50+10:00</lastmod>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/reports-and-case-studies/</loc>
+<lastmod>2025-03-01T19:09:59+10:00</lastmod>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/resources-and-tools/</loc>
+<lastmod>2025-03-01T19:08:08+10:00</lastmod>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/the-dangers-of-environmental-deregulation-and-its-long-term-consequences/</loc>
+<lastmod>2025-03-01T21:06:56+10:00</lastmod>
+<image:image>
+<image:loc>https://arcanaimperi.github.io/media/posts/4/environmental-deregulation-2.jpg</image:loc>
+<image:title><![CDATA[Environmental Deregulation]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arcanaimperi.github.io/media/posts/4/environmental-deregulation.jpg</image:loc>
+<image:title><![CDATA[environmental deregulation]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/the-dismantling-of-diversity-equity-and-inclusion-dei-initiatives-under-executive-order-14173/</loc>
+<lastmod>2025-03-01T21:12:47+10:00</lastmod>
+<image:image>
+<image:loc>https://arcanaimperi.github.io/media/posts/2/dismantling-DEI-2.jpg</image:loc>
+<image:title><![CDATA[ Dismantling DEI]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arcanaimperi.github.io/media/posts/2/dismantling-DEI.jpg</image:loc>
+<image:title><![CDATA[ dismantling DEI]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/the-erosion-of-lgbtq-rights-under-the-current-us-administration/</loc>
+<lastmod>2025-03-01T21:14:44+10:00</lastmod>
+<image:image>
+<image:loc>https://arcanaimperi.github.io/media/posts/1/gayrights-2.jpg</image:loc>
+<image:title><![CDATA[The Erosion of LGBTQ+ Rights Under the Current U.S. Administration]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arcanaimperi.github.io/media/posts/1/gayrights.jpg</image:loc>
+<image:title><![CDATA[The Erosion of LGBTQ+ Rights Under the Current U.S. Administration]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://arcanaimperi.github.io/the-risks-of-executive-power-consolidation-under-project-2025/</loc>
+<lastmod>2025-03-01T21:10:34+10:00</lastmod>
+<image:image>
+<image:loc>https://arcanaimperi.github.io/media/posts/3/executive-power-2.jpg</image:loc>
+<image:title><![CDATA[Executive Power]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://arcanaimperi.github.io/media/posts/3/executive-power.jpg</image:loc>
+<image:title><![CDATA[executive power]]></image:title>
+</image:image>
+</url>
+</urlset>
